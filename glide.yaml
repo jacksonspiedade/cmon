@@ -1,0 +1,4 @@
+package: github.com/jacksonspiedade/cmon
+import:
+- package: github.com/gin-gonic/gin
+- package: gopkg.in/gin-gonic/gin.v1
